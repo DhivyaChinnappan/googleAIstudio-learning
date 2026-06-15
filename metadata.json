@@ -1,0 +1,6 @@
+{
+  "name": "Recipe Companion",
+  "description": "An intelligent, sensory-rich culinary cooking assistant. Decide what delicious meals to cook based on your available ingredients, servings, and desired preparation times.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
